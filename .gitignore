@@ -1,0 +1,8 @@
+*.vcd
+*.log
+*.out
+*.gtkw
+*.swp
+*.tmp
+obj_dir/
+__pycache__/
