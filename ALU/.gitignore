@@ -1,0 +1,6 @@
+SIM/work/
+SIM/transcript
+SIM/modelsim.ini
+WAVEFORMS/
+*.vcd
+*.wlf
